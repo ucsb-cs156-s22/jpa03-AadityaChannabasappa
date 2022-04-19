@@ -3,6 +3,7 @@
 Storybook is here:
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-AadityaChannabasappa-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-AadityaChannabasappa-docs-qa/>
+* Github: <https://github.com/ucsb-cs156-s22/jpa03-AadityaChannabasappa>
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
